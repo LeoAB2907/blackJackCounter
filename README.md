@@ -5,7 +5,7 @@
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+To create a local copy, you'll need the following python packages.
 
 * pynput
 

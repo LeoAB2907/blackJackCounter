@@ -1,4 +1,5 @@
 # Black Jack Counter
+Simple program to practice Hi-Lo card counting.
 
 ## Getting Started
 
@@ -7,13 +8,16 @@
 
 To create a local copy, you'll need the following python packages.
 
-* pynput
+
+* pygame
 
 ```sh
-conda install -c conda-forge pynput
+pip install pygame
 ```
-
 
 ## Authors
 
 * **Leonardo Arias** - [Leonardo Arias](https://leonardoarias.xyz/)
+
+## Assets
+Poker Cards by [DemChing](https://demching.itch.io/poker-cards)
